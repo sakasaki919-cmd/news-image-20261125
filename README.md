@@ -1,6 +1,8 @@
 # THE GLOBAL HERALD — news-image-20261125
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-ff6b9d)](https://make.fun/bounty/news-image-20261125)
+[![make.fun bounty](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125)
+[![rank](https://make.fun/badge/news-image-20261125/sakasaki919-cmd/news-image-20261125/rank.svg)](https://make.fun/bounty/news-image-20261125)
+[![reward](https://make.fun/badge/news-image-20261125/sakasaki919-cmd/news-image-20261125/reward.svg)](https://make.fun/bounty/news-image-20261125)
 [![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Sum up 25 November's world news in one image — a make.fun bounty entry.
